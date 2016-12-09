@@ -15,6 +15,7 @@ No. 241   Different Ways to Add Parentheses
 No. 273   Integer to English Words  
 No. 290   Word Pattern  
 No. 299   Bulls and Cows  
+No. 367   Valid Perfect Square
 No. 380   Insert Delete GetRandom O(1) 
 No. 398   Random Pick Index  
 No. 399   Evaluate Division  
