@@ -5,7 +5,7 @@ personal practice in JAVA.
 No. 6.     ZigZag Conversion  
 No. 15.    3Sum  
 No. 23.   Merge k Sorted Lists    
-No. 65.   Valid Number 
+No. 65.   Valid Number      
 No. 71.    Simplify Path  
 No. 102.   Binary Tree Level Order Traversal  
 No. 103.  Binary Tree Zigzag Level Order Traversal  
