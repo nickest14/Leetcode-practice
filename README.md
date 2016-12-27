@@ -5,6 +5,7 @@ personal practice in JAVA.
 No. 6.     ZigZag Conversion  
 No. 7.     Reverse Integer       
 No. 15.    3Sum  
+No. 19.    Remove Nth Node From End of List       
 No. 23.    Merge k Sorted Lists    
 No. 65.    Valid Number     
 No. 68.    Text Justification        
