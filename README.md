@@ -3,7 +3,8 @@
 personal practice in JAVA.
 
 No. 6.     ZigZag Conversion  
-No. 7.     Reverse Integer       
+No. 7.     Reverse Integer     
+No. 12.    Integer to Roman         
 No. 15.    3Sum  
 No. 19.    Remove Nth Node From End of List       
 No. 23.    Merge k Sorted Lists    
