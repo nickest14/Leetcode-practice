@@ -12,6 +12,7 @@ No. 23.    Merge k Sorted Lists
 No. 65.    Valid Number     
 No. 68.    Text Justification        
 No. 71.    Simplify Path  
+No. 100.   Same Tree
 No. 102.   Binary Tree Level Order Traversal  
 No. 103.   Binary Tree Zigzag Level Order Traversal  
 No. 119.   Pascal's Triangle II   
