@@ -29,7 +29,8 @@ No. 299.   Bulls and Cows
 No. 343.   Integer Break         
 No. 367.   Valid Perfect Square     
 No. 380.   Insert Delete GetRandom O(1)       
-No. 371.   Sum of Two Integers            
+No. 371.   Sum of Two Integers    
+No. 397.   Identification Code      
 No. 398.   Random Pick Index        
 No. 399.   Evaluate Division        
 No. 437.  Path Sum III      
