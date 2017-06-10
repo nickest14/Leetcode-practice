@@ -4,9 +4,7 @@ personal practice in JAVA.
 
 No. 6.     ZigZag Conversion  
 No. 7.     Reverse Integer     
-No. 12.    Integer to Roman        
-No. 13.    Roman to Integerdasd         
-No. 15.    3Sum  
+No. 12.    Integer to Roman       No. 15.    3Sum  
 No. 19.    Remove Nth Node From End of List       
 No. 23.    Merge k Sorted Lists    
 No. 65.    Valid Number     
@@ -37,5 +35,7 @@ No. 437.  Path Sum III
 No. 420.  Strong Password Checker        
 No. 441.  Arranging Coins   
 No. 448.  Find All Numbers Disappeared in an Array      
-No. 450.  Delete Node in a BST      
+No. 450.  Delete Node in a BST  
+No. 488.  Zuma Game                             
 
+ffdd
