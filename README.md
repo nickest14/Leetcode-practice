@@ -1,6 +1,6 @@
 # Leetcode-practice
 
-personal practice in JAVA.
+### personal practice in JAVA.
 
 No. 6.     ZigZag Conversion  
 No. 7.     Reverse Integer     
@@ -37,5 +37,7 @@ No. 420.  Strong Password Checker
 No. 441.  Arranging Coins   
 No. 448.  Find All Numbers Disappeared in an Array      
 No. 450.  Delete Node in a BST  
-No. 488.  Zuma Game                             
+No. 488.  Zuma Game      
+No. 604.  Design Compressed String Iterator           
+
 
