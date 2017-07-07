@@ -2,27 +2,27 @@
 
 ### personal practice in JAVA.
 
-No. 6.     ZigZag Conversion  
-No. 7.     Reverse Integer     
-No. 11.    Container With Most Water                  
-No. 12.    Integer to Roman             
-No. 15.    3Sum  
-No. 19.    Remove Nth Node From End of List       
-No. 23.    Merge k Sorted Lists    
-No. 65.    Valid Number     
-No. 68.    Text Justification        
-No. 71.    Simplify Path  
-No. 91.    Decode Ways          
-No. 100.   Same Tree          
-No. 102.   Binary Tree Level Order Traversal  
-No. 103.   Binary Tree Zigzag Level Order Traversal  
-No. 119.   Pascal's Triangle II   
-No. 134.   Gas Station  
-No. 191.   Number of 1 Bits         
-No. 223.   Rectangle Area  
-No. 240.   Search a 2D Matrix II   
-No. 241.   Different Ways to Add Parentheses  
-No. 273.   Integer to English Words  
+No. 6.     ZigZag Conversion <br>
+No. 7.     Reverse Integer <br>  
+No. 11.    Container With Most Water <br>
+No. 12.    Integer to Roman <br>
+No. 15.    3Sum <br>
+No. 19.    Remove Nth Node From End of List <br>
+No. 23.    Merge k Sorted Lists <br>
+No. 65.    Valid Number <br>
+No. 68.    Text Justification <br>        
+No. 71.    Simplify Path <br>
+No. 91.    Decode Ways <br>   
+No. 100.   Same Tree <br>   
+No. 102.   Binary Tree Level Order Traversal <br>
+No. 103.   Binary Tree Zigzag Level Order Traversal <br>  
+No. 119.   Pascal's Triangle II <br>
+No. 134.   Gas Station <br>
+No. 191.   Number of 1 Bits <br>        
+No. 223.   Rectangle Area  <br>
+No. 240.   Search a 2D Matrix II <br>  
+No. 241.   Different Ways to Add Parentheses <br> 
+No. 273.   Integer to English Words <br>
 No. 290.   Word Pattern  
 No. 299.   Bulls and Cows       
 No. 304.   Range Sum Query 2D - Immutable                         
