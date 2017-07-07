@@ -3,7 +3,7 @@
 ### personal practice in JAVA.
 
 No. 6.     ZigZag Conversion <br>
-No. 7.     Reverse Integer <br>  
+No. 7.     Reverse Integer <br>
 No. 11.    Container With Most Water <br>
 No. 12.    Integer to Roman <br>
 No. 15.    3Sum <br>
@@ -23,23 +23,23 @@ No. 223.   Rectangle Area  <br>
 No. 240.   Search a 2D Matrix II <br>  
 No. 241.   Different Ways to Add Parentheses <br> 
 No. 273.   Integer to English Words <br>
-No. 290.   Word Pattern  
-No. 299.   Bulls and Cows       
-No. 304.   Range Sum Query 2D - Immutable                         
-*No. 327.  Count of Range Sum    
-No. 343.   Integer Break         
-No. 367.   Valid Perfect Square     
-No. 380.   Insert Delete GetRandom O(1)       
-No. 371.   Sum of Two Integers    
-No. 397.   Identification Code      
-No. 398.   Random Pick Index        
-No. 399.   Evaluate Division        
-No. 409.  Longest Palindrome              
-No. 437.  Path Sum III      
-No. 420.  Strong Password Checker        
-No. 441.  Arranging Coins   
-No. 448.  Find All Numbers Disappeared in an Array      
-No. 450.  Delete Node in a BST  
-No. 488.  Zuma Game      
-No. 604.  Design Compressed String Iterator                       
+No. 290.   Word Pattern <br> 
+No. 299.   Bulls and Cows <br>    
+No. 304.   Range Sum Query 2D - Immutable <br> 
+*No. 327.  Count of Range Sum <br> 
+No. 343.   Integer Break <br> 
+No. 367.   Valid Perfect Square <br> 
+No. 380.   Insert Delete GetRandom O(1) <br> 
+No. 371.   Sum of Two Integers <br> 
+No. 397.   Identification Code <br> 
+No. 398.   Random Pick Index <br> 
+No. 399.   Evaluate Division <br>   
+No. 409.  Longest Palindrome <br>         
+No. 437.  Path Sum III  <br> 
+No. 420.  Strong Password Checker <br> 
+No. 441.  Arranging Coins <br> 
+No. 448.  Find All Numbers Disappeared in an Array <br> 
+No. 450.  Delete Node in a BST <br> 
+No. 488.  Zuma Game <br> 
+No. 604.  Design Compressed String Iterator <br> 
 
