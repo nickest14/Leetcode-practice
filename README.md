@@ -19,6 +19,7 @@ No. 103.   Binary Tree Zigzag Level Order Traversal <br>
 No. 119.   Pascal's Triangle II <br>
 No. 124.   Binary Tree Maximum Path Sum <br>
 No. 134.   Gas Station <br>
+No. 144.   Binary Tree Preorder Traversal <br>
 No. 191.   Number of 1 Bits <br>
 No. 223.   Rectangle Area  <br>
 No. 240.   Search a 2D Matrix II <br>
