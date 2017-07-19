@@ -43,5 +43,6 @@ No. 441.  Arranging Coins <br>
 No. 448.  Find All Numbers Disappeared in an Array <br>
 No. 450.  Delete Node in a BST <br>
 No. 488.  Zuma Game <br>
+No. 514.  Freedom Trail <br>
 No. 604.  Design Compressed String Iterator <br>
 
