@@ -34,17 +34,18 @@ No. 343.   Integer Break <br>
 No. 367.   Valid Perfect Square <br>
 No. 380.   Insert Delete GetRandom O(1) <br>
 No. 371.   Sum of Two Integers <br>
+No. 378.   Kth Smallest Element in a Sorted Matrix <br>
 No. 397.   Identification Code <br>
 No. 398.   Random Pick Index <br>
 No. 399.   Evaluate Division <br>
-No. 409.  Longest Palindrome <br>
-No. 437.  Path Sum III  <br>
-No. 420.  Strong Password Checker <br>
-No. 441.  Arranging Coins <br>
-No. 448.  Find All Numbers Disappeared in an Array <br>
-No. 450.  Delete Node in a BST <br>
-No. 485.  Max Consecutive Ones <br>
-No. 488.  Zuma Game <br>
-No. 514.  Freedom Trail <br>
-No. 604.  Design Compressed String Iterator <br>
+No. 409.   Longest Palindrome <br>
+No. 437.   Path Sum III  <br>
+No. 420.   Strong Password Checker <br>
+No. 441.   Arranging Coins <br>
+No. 448.   Find All Numbers Disappeared in an Array <br>
+No. 450.   Delete Node in a BST <br>
+No. 485.   Max Consecutive Ones <br>
+No. 488.   Zuma Game <br>
+No. 514.   Freedom Trail <br>
+No. 604.   Design Compressed String Iterator <br>
 
