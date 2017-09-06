@@ -30,6 +30,7 @@ No. 290.   Word Pattern <br>
 No. 299.   Bulls and Cows <br>
 No. 304.   Range Sum Query 2D - Immutable <br>
 *No. 327.  Count of Range Sum <br>
+No. 322.   Coin Change <br>
 No. 343.   Integer Break <br>
 No. 367.   Valid Perfect Square <br>
 No. 380.   Insert Delete GetRandom O(1) <br>
